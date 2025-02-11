@@ -5,9 +5,10 @@
    <a href="mailto:aniket.ranjan709@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
    </a>
-   <a href="linkedin.com/in/aniket-ranjan-093173235" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-   </a>
+   <a href="https://www.linkedin.com/in/aniket-ranjan-093173235/" target="_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
    <a href="https://github.com/aniket709">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> 
    </a>
@@ -80,4 +81,5 @@
 💼 **Looking for new opportunities!** If you're hiring or collaborating on an exciting project, feel free to reach out.  
 
 📩 **Email:** [aniket.ranjan709@gmail.com](mailto:aniket.ranjan709@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/aniketranjan](linkedin.com/in/aniket-ranjan-093173235)  
+🔗 **LinkedIn:** [linkedin.com/in/aniket-ranjan-093173235](https://www.linkedin.com/in/aniket-ranjan-093173235/)
+
