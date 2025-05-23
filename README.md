@@ -57,12 +57,6 @@
    <img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-### 📊 Data Science & AI
-<p align="left">
-   <img src="https://img.shields.io/badge/OpenCV-%23white?style=for-the-badge&logo=opencv&logoColor=black" alt="OpenCV" />
-   <img src="https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-   <img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-</p>
 
 ---
 
